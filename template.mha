@@ -1,0 +1,6 @@
+NDims = 3
+DimSize = %d %d %d
+ElementType = MET_SHORT
+ElementSpacing = 2.0 2.5 2.0
+ElementByteOrderMSB = False
+ElementDataFile = %s.raw
